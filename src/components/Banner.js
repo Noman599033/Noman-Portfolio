@@ -47,7 +47,7 @@ export const Banner = () => {
     }
   }
   const handleDownloadCVClick = () => {
-    window.open('https://drive.google.com/file/d/1wd8473RCcYcca9-rZblK6zfMkyNhZcKW/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/123uTotRed871m6fKOm_qEVUy7bbr3q9l/view?usp=sharing', '_blank');
   };
 
   return (

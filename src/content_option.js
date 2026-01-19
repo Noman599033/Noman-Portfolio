@@ -10,12 +10,17 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Trainee Software Engineer",
         where: "Computer Network Systems (CNS) Ltd.",
-        date: "2023",
+        date: "01/02/2023 - 30/04/2023",
     },
     {
         jobtitle: "Assistant Software Engineer",
         where: "Computer Network Systems (CNS) Ltd.",
-        date: "2023 - Present",
+        date: "01/05/2023 - 31/12/2024",
+    },
+    {
+        jobtitle: "Software Engineer",
+        where: "Computer Network Systems (CNS) Ltd.",
+        date: "01/01/2025 - Present",
     },
 ];
 
